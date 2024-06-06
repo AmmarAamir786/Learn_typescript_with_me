@@ -1,0 +1,1 @@
+Create a modular calculator program using TypeScript. The program should take user input through the Inquirer library and implement various arithmetic operations (addition, subtraction, multiplication, division) as separate ES modules.

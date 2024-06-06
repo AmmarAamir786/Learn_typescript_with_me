@@ -1,0 +1,1 @@
+Create a quiz application using TypeScript and the Inquirer library. The program should take user input through Inquirer, implement a quiz with a variable number of questions, calculate the quiz score in separate ES module, and display the final result along with correct and incorrect user-given answers.
